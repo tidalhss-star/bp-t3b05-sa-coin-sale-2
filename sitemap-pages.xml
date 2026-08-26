@@ -31,12 +31,77 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260719-0327.html</loc>
+    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260719-0328.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260719-0328.html</loc>
+    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0177.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0178.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0183.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0184.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/interview-001-130k01f.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/review-001-52ko1b.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/t3link-002-130k01f.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260719-0327.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -116,16 +181,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0177.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0178.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0179.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -146,16 +201,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0183.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0184.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0185.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -167,56 +212,6 @@
   </url>
   <url>
     <loc>https://sangam-room-review.node-link.shop/posts/gemini-coverage-20260722-0187.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/interview-001-130k01f.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/review-001-52ko1b.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts/t3link-002-130k01f.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-room-review.node-link.shop/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
